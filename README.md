@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">➡️ Sinh viên năm 2 ngành Khoa học máy tính tại trường Đại học Công Nghiệp TPHCM</p>
+<p align="left">➡️ I am a second-year Computer Science student at Industrial University of Ho Chi Minh City (IUH). 🚀</p>
 
 ###
 
