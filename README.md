@@ -88,6 +88,18 @@
 
 </div>
 
+<h5 align="left">Design Tools</h5>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge" height="30" alt="photoshop logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=adobepremierepro&logoColor=white&style=for-the-badge" height="30" alt="premiere logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" height="30" alt="canva logo" />
+</div>
+
 ###
 
 
@@ -97,7 +109,6 @@
 
 <h2 align="left">Social</h2>
 
-###
 
 <div align="left">
   <a href="https://www.instagram.com/nhat_tien_1408/" target="_blank">
@@ -116,8 +127,10 @@
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo" />
 </a>
 
+<a href="https://leetcode.com/u/NhatTien1114/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
+</a>
+
+
 </div>
 
-###
-
-###
