@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">➡️ I am a second-year Computer Science student at Industrial University of Ho Chi Minh City (IUH). 🚀</p>
+<p align="left">➡️ I am a third-year Computer Science student at Industrial University of Ho Chi Minh City (IUH). 🚀</p>
 
 ###
 
