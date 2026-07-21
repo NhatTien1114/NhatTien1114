@@ -11,11 +11,10 @@
 ### 🧑‍💻 About Me
 
 - 🎓 I'm a **final-year Computer Science student** at the **Industrial University of Ho Chi Minh City (IUH)**.
-- 🚀 My goal is to become a **Fullstack Developer** and a **Mobile Developer**.
+- 🚀 My goal is to become a **Fullstack Developer** and a **Backend Developer**.
 - 💡 I enjoy building things end-to-end — from backend APIs and databases to polished mobile and web interfaces.
-- 🌱 Currently deepening my skills in **Spring Boot**, **Flutter**, and **Next.js**.
-- 📚 Academic interests include **Deep Learning**, **Data Mining**, **Information Security**, and **Pattern Recognition**.
-- 📫 Reach me at **tongnguyennhattien140805@gmail.com**
+- 🌱 Currently deepening my skills in **Spring Boot**, and **Next.js**.
+- 📫 Reach me at **nhattien1408.work@gmail.com**
 
 ---
 
@@ -77,7 +76,7 @@
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:tongnguyennhattien140805@gmail.com">
+  <a href="mailto:nhattien1408.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/nhattien1114/">
