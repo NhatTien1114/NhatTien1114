@@ -6,6 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Java+Backend+Developer;Building+REST+APIs+with+Spring+Boot;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://my-portfolio-nhattien1114s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Nhat%20Tien-FFFFFF?style=for-the-badge&amp;labelColor=000000" alt="Visit Nhat Tien's portfolio" /></a>
+  <img src="https://img.shields.io/badge/Role-Backend%20Developer-FFFFFF?style=for-the-badge&amp;labelColor=000000" alt="Role: Backend Developer" />
+  <img src="https://img.shields.io/badge/Location-HCM%2C%20VIETNAM-FFFFFF?style=for-the-badge&amp;labelColor=000000" alt="Location: HCM, VIETNAM" />
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
